@@ -1,0 +1,35 @@
+{
+  "name": "one-angular-pack-to-rule-them-all",
+  "displayName": "One Angular Pack to rule them all",
+  "description": "A set of extensions that eases an angular developer's life. ",
+  "publisher": "RK Prithwijit Singh",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "Angular.ng-template", 
+    "christian-kohler.path-intellisense", 
+    "CoenraadS.bracket-pair-colorizer-2", 
+    "dbaeumer.vscode-eslint", 
+    "donjayamanne.githistory", 
+    "eamodio.gitlens", 
+    "ecmel.vscode-html-css", 
+    "esbenp.prettier-vscode", 
+    "firsttris.vscode-jest-runner", 
+    "johnpapa.vscode-peacock", 
+    "mhutchie.git-graph", 
+    "mrmlnc.vscode-scss", 
+    "ms-azuretools.vscode-docker", 
+    "ms-vscode.vscode-typescript-tslint-plugin", 
+    "nrwl.angular-console", 
+    "PKief.material-icon-theme", 
+    "pranaygp.vscode-css-peek", 
+    "pushqrdx.inline-html", 
+    "SonarSource.sonarlint-vscode", 
+    "vangware.dark-plus-material"
+  ]
+}
