@@ -2,7 +2,7 @@
   "name": "one-angular-pack-to-rule-them-all",
   "displayName": "One Angular Pack to rule them all",
   "description": "A set of extensions that eases an angular developer's life. ",
-  "publisher": "RK Prithwijit Singh",
+  "publisher": "necronflux",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.71.0"
