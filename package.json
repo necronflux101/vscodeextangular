@@ -4,7 +4,7 @@
   "description": "A set of extensions that eases an angular developer's life. ",
   "icon": "ring.jpg",
   "publisher": "necronflux",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.49.3"
   },
@@ -16,8 +16,7 @@
     "Debuggers",
     "Formatters",
     "Snippets",
-    "Extension Packs",
-    "Angular"
+    "Extension Packs"
   ],
   "repository": {
     "type": "git",
