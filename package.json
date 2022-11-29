@@ -8,29 +8,41 @@
   "engines": {
     "vscode": "^1.49.3"
   },
-  "categories": [
-    "Extension Packs"
+  "keywords": [
+    "Angular"
   ],
-  "extensionPack": [ 
-    "Angular.ng-template", 
-    "christian-kohler.path-intellisense", 
-    "CoenraadS.bracket-pair-colorizer-2", 
-    "dbaeumer.vscode-eslint", 
-    "donjayamanne.githistory", 
-    "eamodio.gitlens", 
-    "ecmel.vscode-html-css", 
-    "esbenp.prettier-vscode", 
-    "firsttris.vscode-jest-runner", 
-    "johnpapa.vscode-peacock", 
-    "mhutchie.git-graph", 
-    "mrmlnc.vscode-scss", 
-    "ms-azuretools.vscode-docker", 
-    "ms-vscode.vscode-typescript-tslint-plugin", 
-    "nrwl.angular-console", 
-    "PKief.material-icon-theme", 
-    "pranaygp.vscode-css-peek", 
-    "pushqrdx.inline-html", 
-    "SonarSource.sonarlint-vscode", 
+  "categories": [
+    "Linters",
+    "Debuggers",
+    "Formatters",
+    "Snippets",
+    "Extension Packs",
+    "Angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/necronflux101/vscodeextangular"
+  },
+  "homepage": "https://github.com/necronflux101/vscodeextangular",
+  "extensionPack": [
+    "Angular.ng-template",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
+    "johnpapa.vscode-peacock",
+    "mhutchie.git-graph",
+    "mrmlnc.vscode-scss",
+    "ms-azuretools.vscode-docker",
+    "nrwl.angular-console",
+    "PKief.material-icon-theme",
+    "pranaygp.vscode-css-peek",
+    "pushqrdx.inline-html",
+    "SonarSource.sonarlint-vscode",
     "vangware.dark-plus-material"
   ]
 }
